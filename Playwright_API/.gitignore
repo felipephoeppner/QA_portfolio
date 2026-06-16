@@ -8,3 +8,4 @@ Docs/
 /playwright/.cache/
 /playwright/.auth/
 shortbeyond/.yaml
+.env
